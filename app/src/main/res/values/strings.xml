@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- Social Media Intergration -->
+    <!--<string name="facebook_app_id">1646388738920557</string>
+    <string name="twitter_consumer_key">BBQAUAVKYzmYtvEcNhUEvGiKd</string>
+    <string name="some">byZzHPxE1tkGmnPEj5zUyc7MG464Q1LgNRcwbBJV1Ap86575os</string>
+    <string name="linkedin_consumer_key">75ubsp337ll7sf</string>
+    <string name="linkedin_consumer_secret">8DVk4hi3wvEyzjbh</string> -->
+    <string name="what_s_the_code">What\'s the code ?</string>
+    <string name="sent_to_phone">Sent to phone</string>
+    <string name="not_received_code">Not received ?</string>
+    <string name="resend_code">Resend</string>
+    <string name="next_code_verification">Next</string>
+    <string name="btnphonenext">Next</string>
+    <string name="we_ll_text_a_code_to_verify_your_phone">We\'ll text a code to verify your phone</string>
+    <string name="what_s_your_number">What\'s your number ?</string>
+    <string name="btncodenext">Next</string>
+    <string name="welcome_to_jobo">Welcome to Jobo</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_name">Jobo</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="resend">Resend</string>
+    <string name="phoneNumberError">Please enter correct phone number</string>
+    <string name="not_received_sms">Not received ?</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <string name="personalise_your_app">Personalize your app</string>
+
+
+    <!-- Strings Related messages-->
+    <string name="dialog_please_wait">Loading.Please wait</string>
+    <string name="title_information">Information</string>
+    <string name="empty_user_name">Enter user name</string>
+    <string name="wrong_phone_number">Phone Number invalid!</string>
+
+    <string name="title_warning">Warning</string>
+    <string name="gps_permission_title">GPS Enabled</string>
+    <string name="gps_permission_messege">In order to use this app you need the GPS to be enabled.</string>
+
+
+    <string name="running">Route in process…</string>
+    <string name="notification">Max Speed : %1$s, Distance : %2$s.</string>
+
+    <string name="noti_id" translatable="false">Speedmeterisanid</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="go_online">GO ONLINE</string>
+    <string name="daily_details">Daily Details</string>
+    <string name="hires">Hires</string>
+    <string name="txtdistance">Distance</string>
+    <string name="Hello">Hello</string>
+
+    <string name="OFFLINE">OFFLINE</string>
+    <string name="Current_Fair">Current Fair</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Navigation drawer item titles -->
+    <string name="nav_home">Home</string>
+    <string name="nav_payment">Add Payment</string>
+    <string name="nav_notification">Notifications</string>
+    <string name="nav_free_rides">Free Rides</string>
+    <string name="nav_ride_history">Ride History</string>
+    <string name="nav_promos">Promos</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_setting">App Setting</string>
+
+
+</resources>
